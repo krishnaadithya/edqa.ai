@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/assistant/__init__.py
+src/assistant/educational_assistant.py
+src/assistant/video_processor.py
+src/edqa.egg-info/PKG-INFO
+src/edqa.egg-info/SOURCES.txt
+src/edqa.egg-info/dependency_links.txt
+src/edqa.egg-info/requires.txt
+src/edqa.egg-info/top_level.txt
+src/utils/__init__.py
+src/utils/caption_utils.py
